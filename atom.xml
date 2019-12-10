@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://charslee013.github.io/"/>
-  <updated>2019-11-14T02:24:46.404Z</updated>
+  <updated>2019-12-10T00:51:41.535Z</updated>
   <id>https://charslee013.github.io/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Code一些感想/笔记</title>
+    <link href="https://charslee013.github.io/code/hexo-next-add-copyright-information/"/>
+    <id>https://charslee013.github.io/code/hexo-next-add-copyright-information/</id>
+    <published>2019-12-09T23:05:03.000Z</published>
+    <updated>2019-12-10T00:51:41.535Z</updated>
+    
+    <content type="html"><![CDATA[<h5 id="code基本思路"><a href="#code基本思路" class="headerlink" title="code基本思路"></a>code基本思路</h5><ol><li><p>信息产生</p></li><li><p>信息处理</p></li><li><p>信息存储</p></li><li><p>信息传输</p></li><li><p>信息展示</p></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h5 id=&quot;code基本思路&quot;&gt;&lt;a href=&quot;#code基本思路&quot; class=&quot;headerlink&quot; title=&quot;code基本思路&quot;&gt;&lt;/a&gt;code基本思路&lt;/h5&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;信息产生&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;信息处理&lt;/p&gt;
+&lt;/li&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="code" scheme="https://charslee013.github.io/categories/code/"/>
+    
+    
+      <category term="code" scheme="https://charslee013.github.io/tags/code/"/>
+    
+  </entry>
   
   <entry>
     <title>基于 docker 搭建主从 mysql5.7</title>
